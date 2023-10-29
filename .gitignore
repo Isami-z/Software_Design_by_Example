@@ -1,2 +1,4 @@
 chapter3/tests/
 notes.md
+__pycache__/
+.vscode/
